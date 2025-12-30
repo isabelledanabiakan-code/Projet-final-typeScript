@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Gestion des évènements</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+
+  <h1 class="title">Gestion des évènements</h1>
+
+  <!-- FORMULAIRES -->
+  <div class="forms-container">
+
+    <!-- AJOUT EVENEMENT -->
+    <section class="box left">
+      <h2>Ajouter un événement</h2>
+
+      <input id="title" placeholder="Titre">
+      <input id="description" placeholder="Description">
+      <input id="date" type="date">
+      <input id="location" placeholder="Lieu">
+      <input id="capacity" type="number" placeholder="Capacité">
+
+      <select id="category">
+        <option value="conférence">Conférence</option>
+        <option value="sport">Sport</option>
+        <option value="autre">Autre</option>
+      </select>
+
+      <button id="addEvent">Ajouter</button>
+    </section>
+
+    <!-- INSCRIPTION -->
+    <section class="box right">
+      <h2>Inscription à un événement</h2>
+
+      <input id="userName" placeholder="Nom">
+      <input id="userEmail" placeholder="Email institutionnel">
+      <input id="eventId" type="number" placeholder="ID de l'événement">
+
+      <button id="registerBtn">S'inscrire</button>
+    </section>
+
+  </div>
+
+  <!-- FILTRES -->
+  <section class="box center">
+    <h2>Filtrer les événements</h2>
+
+    <select id="filterCategory">
+      <option value="">Toutes les catégories</option>
+      <option value="conférence">Conférence</option>
+      <option value="sport">Sport</option>
+      <option value="autre">Autre</option>
+    </select>
+
+    <input type="date" id="filterDate">
+  </section>
+
+  <!-- LISTE -->
+  <section class="box center">
+    <h2>Liste des événements</h2>
+    <div id="eventList"></div>
+  </section>
+
+  <!-- DETAILS -->
+  <section class="box center">
+    <h2>Détails de l'événement</h2>
+    <div id="eventDetails"></div>
+  </section>
+
+  <script type="module" src="./dist/main.js"></script>
+</body>
+</html>
