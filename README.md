@@ -26,5 +26,21 @@ Toutes les données sont stockées en mémoire à l’aide de tableaux JavaScrip
 1. Cloner le dépôt :
 https://github.com/isabelledanabiakan-code/Projet-final-typeScript/edit/main/README.md
 
+## capture d'écran 
+### crée le fichier package.json
+![crée le fichier package.json](./screenshots/créelefichierpackage.json.png)
+
+### Installe TypeScript
+![Installe TypeScript](./screenshots/InstalleTypeScript.png)
+
+### code html 
+![index.html](./screenshots/index.html.png)
+
+### code css 
+![main.css](./screenshots/main.css.png)
+
+### code javascript
+![main.js](./screenshots/main.js.png)
+
 
 
