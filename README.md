@@ -22,9 +22,39 @@ Toutes les données sont stockées en mémoire à l’aide de tableaux JavaScrip
 - TypeScript
 - JavaScript
 
-## Consignes d’exécution
-1. Cloner le dépôt :
-https://github.com/isabelledanabiakan-code/Projet-final-typeScript/edit/main/README.md
+##Arborescencee 
+event-app/
+│── index.html              # Page principale
+│── styles/
+│   └── main.css            # Styles CSS
+│── src/
+│   ├── models/
+│   │   ├── Event.ts        # Classe Event
+│   │   ├── User.ts         # Classe User
+│   │   └── Registration.ts # Classe Registration
+│   └── main.ts             # Logique principale
+│── scripts/
+│   └── start.js            # Script de lancement automatique
+│── dist/                    # Fichiers JS compilés (généré)
+│── package.json
+│── tsconfig.json
+│── .gitignore
+│── README.md
+
+##Installation & Lancement
+###Étapes
+##Cloner le dépôt
+git clone https://github.com/isabelledanabiakan-code/Projet-final-typeScript.git
+cd event-app
+
+##Installer les dépendances
+npm install
+
+##Compile le TypeScript en JavaScript 
+npx tsc
+
+##Lancer l'application 
+Ouvre le fichier index.html dans un navigateur
 
 ## capture d'écran 
 ### crée le fichier package.json
