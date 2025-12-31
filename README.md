@@ -89,7 +89,7 @@ Ouvre le fichier index.html dans un navigateur
 ![Création package.json](./screenshot/cree-package-json.png)
 
 ### Installe TypeScript
-![Installe TypeScript](./screenshot/installe-typescript.png)
+![installe typeScript](./screenshot/installe-typescript.png)
 
 ### code html 
 ![index.html](./screenshot/index-html.png)
@@ -104,13 +104,13 @@ Ouvre le fichier index.html dans un navigateur
 ![interface principale](./screenshot/interface-principale.png)
 
 ### Page détail d’un événement
-![Page détail événement](./screenshot/detail.png)
+![detail](./screenshot/detail.png)
 
 ### Formulaire d’inscription
-![Formulaire inscription](./screenshot/inscrit.png)
+![inscrit](./screenshot/inscrit.png)
 
 ### Page accueil (liste d'événements)
-![Page accueil liste événements](./screenshot/liste.png)
+![liste](./screenshot/liste.png)
 
 ## Auteur
 # - Noms :
