@@ -101,16 +101,16 @@ Ouvre le fichier index.html dans un navigateur
 ![main.js](./screenshot/main-js.png)
 
 ### interface principale 
-![Interface principale](screenshots/interface-principale.png)
+![Interfaceprincipale](screenshot/interfaceprincipale.png)
 
 ### Page détail d’un événement
-![detail evenement](screenshots/detail.png)
+![detailevenement](screenshots/detail.png)
 
 ### Formulaire d’inscription
 ![inscription](screenshots/inscription.png)
 
 ### Page accueil (liste d'événements)
-![Liste evenements](screenshots/liste.png)
+![Listeevenements](screenshots/liste.png)
 
 ## Auteur
 ### - Noms :
