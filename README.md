@@ -28,10 +28,10 @@ https://github.com/isabelledanabiakan-code/Projet-final-typeScript/edit/main/REA
 
 ## capture d'écran 
 ### crée le fichier package.json
-![crée le fichier package.json](./screenshot/crée-le-fichierpackage-json.png)
+![Création package.json](./screenshot/cree-package-json.png)
 
 ### Installe TypeScript
-![Installe TypeScript](./screenshot/Installe-TypeScript.png)
+![Installe TypeScript](./screenshot/installe-typescript.png)
 
 ### code html 
 ![index.html](./screenshot/index-html.png)
@@ -40,7 +40,10 @@ https://github.com/isabelledanabiakan-code/Projet-final-typeScript/edit/main/REA
 ![main.css](./screenshot/main-css.png)
 
 ### code javascript
-![main.js](./screenshots/main-js.png)
+![main.js](./screenshot/main-js.png)
+
+### interface principale 
+![interface principale](./screenshot/interface-principale.png)
 
 
 
