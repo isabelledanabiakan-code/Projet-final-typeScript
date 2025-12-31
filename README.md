@@ -101,23 +101,23 @@ Ouvre le fichier index.html dans un navigateur
 ![main.js](./screenshot/main-js.png)
 
 ### interface principale 
-![Interface principale](screenshot/interface-principale.png)
+![Interface principale](screenshots/interface-principale.png)
 
 ### Page détail d’un événement
-![Détail événement](screenshot/detail.png)
+![detail evenement](screenshots/detail.png)
 
 ### Formulaire d’inscription
-![Inscription](screenshot/inscription.png)
+![inscription](screenshots/inscription.png)
 
 ### Page accueil (liste d'événements)
-![Liste événements](screenshot/liste-evenements.png)
+![Liste evenements](screenshots/liste.png)
 
 ## Auteur
-# - Noms :
+### - Noms :
 DANABIAKAN ZOBO 
-# - matricule : 
+### - matricule : 
 
-# - email : 
+### - email : 
   institutionnel : isabelle.danabiakan@saintjeaningenieur.org
    personnel : danabiakanisabelledarla@gmail.com
 
